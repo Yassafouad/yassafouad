@@ -8,9 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/yassa_fouad" target="blank"><img src="https://img.shields.io/twitter/follow/yassa_fouad?logo=twitter&style=for-the-badge" alt="yassa_fouad" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **WEB DEVELOPER MERN**
+- 💬 Ask me about **WEB DEVELOPER MERN STACK**
 
 - 📫 How to reach me **yassayassa16@gmail.com**
 
