@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yassa Fouad Shohdy</h1>
+<h1 align="center">Hi 👋, I'm Yassa Fouad </h1>
 <h3 align="center">MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassafouad&label=Profile%20views&color=0e75b6&style=flat" alt="yassafouad" /> </p>
