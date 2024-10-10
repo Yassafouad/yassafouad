@@ -23,35 +23,29 @@
 
 <h3 align="left">Skills :</h3>
 
-### Frontend Development
+### Frontend Development 🌐
 - **Languages**: HTML, CSS, JavaScript
 - **Frameworks**: Bootstrap, Tailwind CSS, ReactJS, NextJS
 - **Libraries**: jQuery, SwiperJS
 - **Tools**: Sass
 
-### Backend Development
+### Backend Development ⚙️
 - **Languages**: NodeJS, ExpressJS
 - **Databases**: MongoDB, Prisma
 - **APIs**: RESTful API, GraphQL
 
-### State Management
+### State Management 📦
 - **Libraries**: Redux Toolkit
 
-### Payment Processing
+### Payment Processing 💳
 - **Tools**: Stripe
 
-### Content Management
+### Content Management 📝
 - **CMS**: Sanity
 
-### Version Control
+### Version Control 🔧
 - **Tools**: Git, GitHub
 
-### Other Technologies
+### Other Technologies ☁️
 - **HTTP Clients**: Axios
 - **Cloud Services**: Firebase
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassafouad&show_icons=true&locale=en&layout=compact" alt="yassafouad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassafouad&show_icons=true&locale=en" alt="yassafouad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassafouad&" alt="yassafouad" /></p>
